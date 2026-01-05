@@ -51,10 +51,10 @@ The bottom case was designed to closely match the CANCoder’s geometry.
 ## BOM
 
 | Item | Quantity | Unit Cost (CAD) | Total Cost (CAD) | Supplier | Link |
-|-----|----------|------------------|------------------|----------|------|
-| Molex SL Connector (70553-0002) | 3 | 1.34 | 13.97 | Digi-Key | https://www.digikey.ca/en/products/detail/molex/0705530002/114955 |
+|------|----------|-----------------|------------------|----------|------|
+| Molex SL Connector (70553-0002) | 3 | 1.34 | 13.58 | Digi-Key | https://www.digikey.ca/en/products/detail/molex/0705530002/114955 |
 | Custom PCB | 1 | 23.24 | 23.24 | JLCPCB | — |
-| Diametric Cylinder Magnet (5 mm × 12 mm) | 3 | 1.25 | 17.27 | Magnet Montreal | https://magnetmontreal.com/neodymium-cylinder-magnets/cylinder-diametric-magnet-5mm-wide-x-12mm-high-0.2-x-0.47.html |
-| Total:| — | — | — | 54.64 CAD | 39.63  USD |
+| Diametric Cylinder Magnet (5 mm × 12 mm) | 8 | 1.25 | 22.76 | Magnet Montreal | https://magnetmontreal.com/neodymium-cylinder-magnets/cylinder-diametric-magnet-5mm-wide-x-12mm-high-0.2-x-0.47.html |
+| Total:| — | — | — | 59.58 CAD | 43.16  USD |
 
 *Total cost includes shipping
